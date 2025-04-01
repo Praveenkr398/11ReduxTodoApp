@@ -18,6 +18,8 @@ This is a simple and efficient **To-Do App** built using **React.js** and **Redu
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/50438a8e-ea1a-48e6-afe5-d09cc9aa5007)
 
+Category:- "Mini Project, React, Hook,Redux, CSS"
+
 ## 🔗 Live Demo & Repository
 🌐 **Live Demo:** [To-Do App](https://reduxitodoapp.netlify.app/)  
 📂 **GitHub Repository:** [To-Do App Code](https://github.com/Praveenkr398/11ReduxTodoApp)  
